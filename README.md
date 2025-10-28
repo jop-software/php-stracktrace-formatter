@@ -1,6 +1,6 @@
 # PHP Stracktrace Formatter
 
-A simple PHP library to format and render stack traces in a human-readable way.
+A simple SPA to format and render stack traces in a human-readable way.
 
 ## LICENSE
 
